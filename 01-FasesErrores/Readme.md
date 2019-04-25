@@ -1,4 +1,5 @@
-*Compilador usado :MinGw
+****************************************************
+Compilador usado :MinGw
 **************Preprocesador********************** 
 1.- Preprocesar hello2.c, no compilar, y generar hello2.i. Analizar su contenido.
 comando usado :gcc -E HELLO2.C > HELLO2.i
